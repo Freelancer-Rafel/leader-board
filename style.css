@@ -1,0 +1,113 @@
+body {
+    background-color: #F3F1FF;
+    font-family: 'Poppins', sans-serif;
+}
+.logo {
+    width: 40px;
+}
+main {
+    max-width: 870px;
+    margin: auto;
+    margin-top: 36px;
+}
+
+.rafel {
+    width: 51px;
+    height: 51px;
+    border-radius: 50%;
+}
+.player p {
+    font-size: 18px;
+    font-weight: 500;
+}
+.player img {
+    width: 56px;
+}
+
+h3 {
+    color: #562EFF;
+    padding: 33px 0; 
+    font-size: 24px;
+    font-weight: 500;
+}
+.blog img {
+    width: 177px;
+}
+.text h5 {
+    font-size: 20px;
+    width: 164px;
+}
+.text span {
+    color: #9F9F9F;
+}
+
+.balu {
+    font-size: 16px;
+    font-weight: 400;
+    color: #562EFF;
+}
+.blog-text .text {
+    float: right;
+}
+.text-a {
+    margin-left: 195px;
+}
+.card-img-top {
+    padding: 11px;
+}
+ul{
+    padding: 0;
+}
+li {
+    list-style: none;
+    margin-left: 5px;
+}
+.all img {
+    width: 12.39px;
+}
+.card-title {
+    font-size: 18px;
+}
+h6 {
+    font-size: 17px;
+}
+.card-text {
+    color: #ED6B4F;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 7px;
+}
+.no-color img{
+    color: #AEAEAE!important;
+}
+.time {
+    color: #FF4A60;
+    background-color: #FFE4E8;
+    width: 94.83px;
+    border-radius: 14.69px;
+    padding: 2px 7px;
+}
+.time img {
+    width: 20.3px;
+}
+.time small {
+    font-size: 14.69px;
+    font-weight: 600px;
+}
+.card {
+    border: none;
+}
+.card:hover {
+    background-color: #FFFFFF;
+    box-shadow: 0px 20px 40px rgb(0 0 0 / 10%);
+    transition: .5s;
+}
+
+
+footer{
+    background-color: #9F9F9F;
+    text-align: center;
+    margin-top: 30px;
+    padding: 20px;
+    font-size: 14px;
+}
